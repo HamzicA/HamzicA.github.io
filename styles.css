@@ -5,3 +5,9 @@ h1 {
 body {
     margin: 10%;
 }
+
+.randomHello {
+    font-size: 2em;
+    font-weight: bold;
+    color: rgb(52, 129, 106);
+}
